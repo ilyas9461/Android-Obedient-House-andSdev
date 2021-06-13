@@ -67,7 +67,7 @@ Buna göre;
 - Android programlama.
 - PCB çizim teknikleri.
 
-### **NOT: Bu çalışma TUBİTAK proje yarışmasında Türkiye genelinde mansiyon almıştır.**
+### **NOT: Bu çalışma TUBİTAK proje yarışmasında Türkiye genelinde mansiyon (Dördüncülük) almıştır.**
 
 
 
