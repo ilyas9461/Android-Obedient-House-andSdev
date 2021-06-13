@@ -1,0 +1,25 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android" >
+
+    <item android:id="@+id/bl_connect" android:title="Bluetooth Cihaza Bağlan">
+    </item><item android:id="@+id/bl_deneme" android:title="Bluetooth Deneme">
+    </item>
+    <item android:id="@+id/kayit_islemleri" android:title="Zamanlı İşlev: Dosya İslemleri --&gt;&gt;">
+        <menu>
+            <item android:id="@+id/item2" android:title=" ::... Kayıt İşlemleri ...::"/><item android:id="@+id/k_listele" android:title="Kayıtları Listele/Sil" /><item android:id="@+id/k_sil" android:title="Kayitların Hepsini Sil"/>
+            
+            
+        </menu>
+    </item><item android:id="@+id/ayarlar" android:title="Ayarlar   --&gt;&gt;">
+        <menu>
+            
+            <item android:id="@+id/item1" android:title="  ::... Ayarlar ...::  " /><item android:id="@+id/SesliUyari" android:checkable="true" android:checked="true" android:title="Donanımsız sesli uyarılari al..." android:enabled="true" />
+            <item android:id="@+id/beepSesi" android:checked="true" android:checkable="true" android:title="Beep Sesi Aktif" android:enabled="true"/>
+        </menu>
+    </item>
+    
+    <item android:id="@+id/textKomut" android:title="Text KomutGirişi"></item>
+    <item android:id="@+id/hakkinda" android:title="Hakkında"></item>
+    
+    
+
+</menu>

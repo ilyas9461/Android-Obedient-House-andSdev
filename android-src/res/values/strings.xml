@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">AndSDev</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="btn_gonder">BL veri gonder</string>
+    <string name="textViewgGonder">textGonder</string>
+    <string name="led1">LED1</string>
+    <string name="led2">LED2</string>
+    <string name="led3">LED3</string>
+
+</resources>

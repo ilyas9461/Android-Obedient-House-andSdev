@@ -1,0 +1,9 @@
+
+    <PreferenceScreen 
+        xmlns:android="http://schemas.android.com/apk/res/android" 
+        android:title="Komutlar" 
+        android:key="Komutlar">
+        <Preference android:key="Salon" android:defaultValue="001" android:title="Salon Lambası" android:summary="001" android:order="001"/>
+        <Preference android:key="mutfak" android:defaultValue="002" android:title="mutfak"/>
+        <Preference android:key="Çocuk Odası" android:defaultValue="003" android:title="Çocuk Odası"/>
+    </PreferenceScreen>
