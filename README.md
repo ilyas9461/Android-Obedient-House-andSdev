@@ -1,73 +1,72 @@
 
-## **Android Söz Dinleyen Ev (AndSDev)**
+## **Android Obedient House (AndSDev)**
 
-### **Projenin Amacı :**
+### **The goal of the project:**
 
-Android işletim sisteminin ses tanıma ve bluetooth özelliğinden faydalanılarak,
+By taking advantage of the voice recognition and Bluetooth features of the Android operating system,
 
-Evdeki cihazların ;
-- İşlevlerine ait komutların konuşma diline yerleşmiş farklı söylem şekillerini tanıyabilen,
+devices at home;
+- Being able to recognize different forms of discourse embedded in spoken language regarding the functions of voice commands,
 
-- Bu komutlarla kontrolünü sağlayan bir program hazırlamak. 
+- To prepare a program that provides control with these commands. 
 
-### **Projenin Hedefleri** :
-- Bluetooth modüller ile mikrodenetleyici ve mobil telefon-tabletlerin haberleştirilmesi.
-- Android işletim sisteminde ses tanıma işleminin yapılması.
-- Sözel komutlara ait farklı söylem algoritmalarının oluşturulması ve yazılması.
-- Sözel komutları model eve uygulama. 
+### **Project Goals** :
+- Communication of microcontrollers and mobile phones-tablets with Bluetooth modules.
+- Performing voice recognition in the Android operating system.
+- Creating and writing different discourse algorithms for verbal commands.
+- Applying verbal commands to the model home.
 
 #
-![program](foto/andSdev_model_ev.jpg)
+![program](img/andSdev_model_ev.jpg)
 
 
 
-### **Akıllı evler  :**
-İçinde yaşayan insanlarla sürekli etkileşim içinde olan ve verilen emirler doğrultusunda belirlenen işlevleri bir senaryoya göre yerine getiren evlerdir. 
+### **Smart homes  :**
+These are houses that are in constant interaction with the people living in them and perform functions determined according to a scenario in line with the orders given.
+According to this;
 
-Buna göre;
+- They can be controlled from a center and communicate with devices in the house.
+- Thanks to the technologies they use, they offer their residents a more economical, safer, more comfortable and easier life.
 
-- Bir merkezden kontrol edilebilir ve evdeki cihazlarla haberleşebilirler.
-- Kullandıkları teknolojiler sayesinde ev sakinlerine, daha tasarruflu, daha güvenli, daha konforlu ve hayatı kolaylaştıran bir yaşam sunarlar.
+### **The Main Problem Subject to the Project**
 
-### **Projeye Konu Olan Temel Problem**
-
-**Komut aynı dilde söylense bile ;**
+**Even if the command is spoken in the same language;**
 	
-- Komutun sözel ifade edilişi değişebilecektir.
+- The verbal expression of the command may vary.
 
-- Bazı durumlarda bir komut için yüzlerce farklı söylem biçimi ortaya çıkabilecektir.
+- In some cases, hundreds of different discourse styles can emerge for a single command.
 
-- Farklı söylem biçimlerinin tanıması ile son kullanıcı zenginliği ve kullanım kolaylığı  meydana gelecektir. 
+- By recognizing different forms of discourse, end-user richness and ease of use will emerge.
 	
-- Bu durumda da evdeki ve toplumdaki bireylerin tümü sistemi rahatlıkla  kullanabilecektir.
+- In this case, all individuals in the home and society will be able to use the system easily.
 
-### **Proje Fikri İle İlgili Bazı Kavramlar**
+### **Some Concepts About the Project Idea**
 
-- GUI(Grafik User Interface-Grafik Kullanıcı Arabirimi):  
+- GUI(Grafik User Interface):  
 
-	Kullanıcıyla etkileşimin grafik (görsel) ara yüzle sağlanması.
+	Providing interaction with the user through a graphical (visual) interface.
 
-- VUI(Voice User Interface-Ses Kullanıcı Arabirimi) : 
+- VUI(Voice User Interface) : 
 
-	Kullanıcı ile etkileşimin ses ile sağlanması.
+	Interaction with the user is provided by voice.
 
 
-- FSB(Farklı Söylem Biçimleri) :
+- FSB(Different Forms of Discourse) :
 
- 	Ses ara yüzü için bir komutun söyleminin  farklı ifade edilmesi.
+ 	Different expressions of the discourse of a command for the voice interface.
 
-### **Sistemin Temel Çalışması**
+### **Basic Operation of the System**
 
-![temel çalışma](foto/donanım_blok_sema.JPG)
+![temel çalışma](img/donanım_blok_sema.JPG)
 
-### **Kullanılan Teknolojiler**
-- Mikrodenetleyiciler PIC18F452
-- CCS PIC C programlama dili.
-- Bluetooth haberleşmesi(mobil tel., tablet)
-- Android programlama.
-- PCB çizim teknikleri.
+### **Used technologies**
+- Mikrocontrollers PIC18F452
+- CCS PIC C compiler.
+- Bluetooth communication
+- Android programming.
+- PCB drawing techniques.
 
-### **NOT: Bu çalışma TUBİTAK proje yarışmasında Türkiye genelinde mansiyon (Dördüncülük) almıştır.**
+### **NOTE: This study was deemed worthy of an honorable mention (Fourth place) in the TÜBİTAK project competition held throughout Türkiye.**
 
 
 
