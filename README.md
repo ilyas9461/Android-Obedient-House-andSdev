@@ -66,8 +66,8 @@ According to this;
 - Android programming.
 - PCB drawing techniques.
 
-### **NOTE: This study was deemed worthy of an honorable mention (Fourth place) in the TÜBİTAK project competition held throughout Türkiye (2014).**
-<a href="https://tubitak.gov.tr/en/competitions/2204-high-school-students-research-projects-competition" target="_blank">
+### **NOTE: This study was deemed worthy of honorable mention (Fourth place) in the TÜBİTAK inter-high school project competition held throughout Turkey (2014).**
+<a href="https://tubitak.gov.tr/tr/yarismalar/2204-lise-ogrencileri-arastirma-projeleri-yarismasi" target="_blank">
 	(TUBITAK High School Students Research Projects Competition)
 </a>
 
