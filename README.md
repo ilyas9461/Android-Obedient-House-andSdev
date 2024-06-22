@@ -67,7 +67,7 @@ According to this;
 - PCB drawing techniques.
 
 ### **NOTE: This study was deemed worthy of an honorable mention (Fourth place) in the TÜBİTAK project competition held throughout Türkiye.**
-<a href="https://tubitak.gov.tr/en/competitions/2204-high-school-students-research-projects-competition">
+<a href="https://tubitak.gov.tr/en/competitions/2204-high-school-students-research-projects-competition" target="_blank">
 	Link: TUBITAK High School Students Research Projects Competition
 </a>
 
